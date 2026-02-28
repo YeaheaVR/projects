@@ -12,13 +12,3 @@ p {
   font-size: 20px;
   text-align: center;
 }
-
-iframe {
-  width: "482"
-  height: "412"
-  allowtransparency: "true"
-  frameborder: "0"
-  scrolling: "no"
-  allowfullscreen: ""
-  color-scheme: auto
-}
