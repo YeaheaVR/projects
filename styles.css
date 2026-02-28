@@ -10,4 +10,16 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+  text-align: center;
+}
+
+iframe {
+  width="482"
+  height="412"
+  allowtransparency="true"
+  frameborder="0"
+  scrolling="no"
+  allowfullscreen=""
+  style="color-scheme: auto
+  text-align: center;
 }
