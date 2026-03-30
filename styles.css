@@ -12,3 +12,8 @@ p {
   font-size: 20px;
   text-align: center;
 }
+
+iframe {
+    display: block;
+    border-style:none;
+}
